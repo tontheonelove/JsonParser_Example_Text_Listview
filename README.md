@@ -45,3 +45,7 @@
    }
    
 }
+
+
+
+#https://github.com/tontheonelove/JsonParser_Example_Text_Listview/blob/master/json_example.jpg
